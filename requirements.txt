@@ -8,3 +8,4 @@ requests
 tgcrypto
 youtube-dl
 olefile
+setuptools==0.7.3
